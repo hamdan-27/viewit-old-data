@@ -1,0 +1,26 @@
+# secrets
+.streamlit/secrets.toml
+
+# py files
+test*.py
+newmodel.py
+falcon.py
+__init__.py
+
+# ipynb files
+test*.ipynb
+notebook_chat.ipynb
+
+# folders
+chat_history/
+.data_archive/
+__pycache__/
+
+# data
+*Copy.csv
+reidin_insight_data.csv
+data/*.xlsx
+
+# others
+full_prompt.txt
+*.html

@@ -1,0 +1,21 @@
+[theme]
+base = "light"
+primaryColor = "#3d7af8"
+backgroundColor = "#fafafa"
+# secondaryBackgroundColor = "#cfe3fa"
+secondaryBackgroundColor = "#e4f0fe"
+textColor = "#04256e" #292d2f (dark grey) #0a3696 (blue)
+font = "sans serif"
+
+
+# base = "dark"
+# primaryColor = "#ffc300"
+# backgroundColor = "#0a3696"
+# secondaryBackgroundColor = "#062363"
+
+[logger]
+
+# Level of logging: 'error', 'warning', 'info', or 'debug'.
+
+# Default: 'info'
+level = "info"
